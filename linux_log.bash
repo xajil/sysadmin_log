@@ -13,3 +13,8 @@ cat /etc/redhat-release
 # Versión de Ubuntu
 cat /etc/lsb-release
 
+#Cambio de Zona Horaria del Servidor.
+# Link http://www.cyberciti.biz/faq/centos-linux-6-7-changing-timezone-command-line/
+
+ls /usr/share/zoneinfo
+
